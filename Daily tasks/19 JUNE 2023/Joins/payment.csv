@@ -1,0 +1,3 @@
+pay_id,oid,amount,mode,status
+1,10001,2700,upi,completed
+2,10002,18000,credit,completed
